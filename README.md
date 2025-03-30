@@ -38,5 +38,13 @@ One of the most exciting parts of this project was learning **SQLite** from scra
 
 ---
 
+## 🚀 Running the Code  
+1. **Open the LMSdatabase.db file** on [SQLite Viewer](https://sqliteviewer.app/#/LMSdatabase.db/table/LIBRARIAN/) to preview the database.  
+2. **Open the main C++ file** in **Dev-C++** or any other compatible compiler.  
+3. **Compile & Run the code** to start the Library Management System.  
+4. The project was developed in **Dev-C++**, but it should run smoothly on other C++ compilers as well.  
+
+---
+
 This **Library Management System** was a great learning experience, and we look forward to improving it further! 🚀  
 
